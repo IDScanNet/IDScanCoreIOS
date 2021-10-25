@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDScanCoreTestModel</key>
+	<dict>
+		<key>TestString</key>
+		<string>TestString</string>
+		<key>TestInt</key>
+		<false/>
+		<key>TestDouble</key>
+		<real>604.2</real>
+		<key>TestDate</key>
+		<date>2021-03-01T11:54:24Z</date>
+		<key>TestArray</key>
+		<array>
+			<string>asd</string>
+			<integer>123</integer>
+		</array>
+		<key>TestDic</key>
+		<dict>
+			<key>asd</key>
+			<string>asd</string>
+			<key>123</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
