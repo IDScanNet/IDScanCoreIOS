@@ -55,7 +55,7 @@ extension XCTestCase {
     
     fileprivate func validateVersion(_ version: String) -> Bool {
         let coreVersionNumbers = version.split(separator: ".")
-        return coreVersionNumbers.count == 3 && coreVersionNumbers[1].count == 8
+        return coreVersionNumbers.count == 3 && coreVersionNumbers[1].count == 6
     }
     
     public func formatErrors(_ errors: [Error], componentName: String) -> String? {

@@ -66,9 +66,9 @@ extension IDScanComponent {
      
      ```
      # Versioning: #
-     major.yyyymmdd.build
+     major.yymmdd.build
      - major - increases after global changes
-     - yyyymmdd - build date
+     - yymmdd - build date
      - build - increases with every build independently from other part of version
      ```
      */
@@ -86,9 +86,9 @@ extension IDScanComponent {
      
      ```
      # Versioning: #
-     major.yyyymmdd.build
+     major.yymmdd.build
      - major - increases after global changes
-     - yyyymmdd - build date
+     - yymmdd - build date
      - build - increases with every build independently from other part of version
      ```
      */
